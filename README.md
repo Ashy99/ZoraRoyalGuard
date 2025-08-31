@@ -4,7 +4,7 @@ A Dalamud plugin that automatically replies with /content when someone uses /pet
 
 - InternalName: $PLUGIN_INTERNAL
 - API level: 9
-- Build: .NET 8, Class Library
+- Build: .NET 9, Class Library
 
 ## Build
 `
