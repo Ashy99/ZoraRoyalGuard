@@ -1,0 +1,13 @@
+﻿{
+  "Author": "Ashy99",
+  "Name": "Auto Pet->Content Emote",
+  "Punchline": "Automatically replies with /content when someone /pets you.",
+  "Description": "Listens for incoming /pet emote chat lines targeting your character and replies with /content.",
+  "RepoUrl": "https://github.com/Ashy99/ZoraRoyalGuard",
+  "Tags": ["emote", "automation", "pet", "content"],
+  "CategoryTags": ["utility"],
+  "InternalName": "AutoPetToContent",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 9,
+  "LoadPriority": 0
+}
